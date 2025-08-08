@@ -1,0 +1,2 @@
+Xac nhan yeu cau truy cap tu client thong qua ssh 
+Ma xac nhan : ptit
